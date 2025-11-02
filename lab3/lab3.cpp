@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+	//
 //zad1
 	//int a, b;
 	//cout << "podaj dwie liczby calkowite: ";
